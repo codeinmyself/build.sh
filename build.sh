@@ -1,6 +1,6 @@
 # build.sh
-#在Linux下编译FFmpeg成功的脚本
-
+# 在Linux下编译FFmpeg成功的脚本
+# 注意Linux和windows的换行符\r\n不太一样，要转换（dos2unix）
 #!/bin/sh
 cd ffmpeg
 make clean
