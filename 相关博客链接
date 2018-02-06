@@ -10,3 +10,9 @@ http://www.yhao.xyz/2017/08/12/Android%20%E9%9B%86%E6%88%90%20FFmpeg%20%E4%B8%80
 
 4、AndroidStudio2.2 Preview3中NDK开发之CMake和传统 JNI在目录结构和配置文件上的区别：
 http://blog.csdn.net/u012527560/article/details/51752070
+
+5、CMAKE手册：
+https://www.zybuluo.com/khan-lau/note/254724
+
+6、CMAKE官方文档：
+https://cmake.org/cmake/help/v3.3/manual/cmake-commands.7.html
